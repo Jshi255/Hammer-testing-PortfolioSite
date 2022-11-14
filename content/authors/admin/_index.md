@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Hammer 铁锤
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Hammer
+last_name: LIN
 
 # Is this the primary user of the site?
 superuser: true
